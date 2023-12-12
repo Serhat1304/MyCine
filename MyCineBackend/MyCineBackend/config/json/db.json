@@ -1,0 +1,44 @@
+{
+  "films": [
+    {
+      "id": 1,
+      "title": "Inception",
+      "description": "Un voleur habile pénètre dans les rêves des autres pour voler leurs secrets les plus profonds.",
+      "auteur": "Christophe Nolan",
+      "note": 9.0,
+      "image": "https://fr.web.img6.acsta.net/c_310_420/medias/nmedia/18/72/34/14/19476654.jpg"
+    },
+    {
+      "id": 2,
+      "title": "The Shawshank Redemption",
+      "description": "Deux hommes emprisonnés se lient pendant plusieurs années, trouvant du réconfort et une éventuelle rédemption grâce à des actes de décence commune.",
+      "auteur": "Frank Darabont",
+      "note": 9.3,
+      "image": "https://fr.web.img6.acsta.net/c_310_420/medias/nmedia/18/63/30/68/18686447.jpg"
+    },
+    {
+      "id": 3,
+      "title": "The Matrix",
+      "description": "Un pirate informatique apprend auprès de mystérieux rebelles la véritable nature de sa réalité et son rôle dans la guerre contre ses contrôleurs.",
+      "auteur": "Lana et Lilly Wachowski",
+      "note": 8.7,
+      "image": "https://fr.web.img4.acsta.net/c_310_420/medias/04/34/49/043449_af.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Pulp Fiction",
+      "description": "Les vies de deux tueurs à gages, d'un boxeur, de la femme d'un gangster et de deux bandits de restaurant s'entrelacent dans quatre histoires de violence et de rédemption.",
+      "auteur": "Quentin Tarantino",
+      "note": 8.9,
+      "image": "https://fr.web.img2.acsta.net/c_310_420/medias/nmedia/18/36/02/52/18846059.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Forrest Gump",
+      "description": "Les présidences de Kennedy et Johnson, les événements du Vietnam, le Watergate et d'autres événements historiques se déroulent à travers la perspective d'un homme de l'Alabama avec un QI de 75.",
+      "auteur": "Robert Zemeckis",
+      "note": 8.8,
+      "image": "https://fr.web.img2.acsta.net/c_310_420/pictures/15/10/13/15/12/514297.jpg"
+    }
+  ]
+}
